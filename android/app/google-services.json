@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1045712868755",
+    "firebase_url": "https://fir-demo-2026-47469-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-demo-2026-47469",
+    "storage_bucket": "fir-demo-2026-47469.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045712868755:android:de9af1708c6350c1d48466",
+        "android_client_info": {
+          "package_name": "com.example.flutter_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzWZF3GZ8fLFoLAniyrDfGAn4bK5duts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
